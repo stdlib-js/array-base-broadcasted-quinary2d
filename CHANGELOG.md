@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-02-24)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`c695d88`](https://github.com/stdlib-js/stdlib/commit/c695d883771b97f493c0d370973fbd2bd39d521e) - **bench:** refactor to use string interpolation in `array/base/broadcasted-quinary2d` [(#10438)](https://github.com/stdlib-js/stdlib/pull/10438) _(by anee3)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   anee3
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.3">
 
 ## 0.1.3 (2026-02-08)
